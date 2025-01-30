@@ -38,10 +38,8 @@ This is a simple yet functional To-Do List web application that allows users to 
 ```
 
 ## Future Enhancements
-- Add a "Mark as Completed" button.
 - Implement local storage to save tasks.
 - Introduce categories or priority levels for tasks.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+
 
